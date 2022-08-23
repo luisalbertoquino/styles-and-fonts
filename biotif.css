@@ -1,0 +1,6 @@
+{
+font-family: "biotif";
+src: url("./fonts/biotif/Biotif-Black.ttf");
+src: url("./fonts/biotif/Biotif-Black.ttf?#iefix") format("ttf"), url("./fonts/county-icon/Biotif-BlackItalic.ttf") format("ttf");
+font-weight: normal; font-style: normal;
+}
